@@ -21,7 +21,7 @@ ltmain.sh
 *.la
 *.s
 *.ii
-Makefile
+!Makefile
 config.status
 libtool
 m4/libtool.m4
